@@ -16,12 +16,9 @@ h1 {
 }
 
 hr {
-  margin: 20px auto;
-  color: #f05f44;
-  border: 3px solid #f05f44;
-  border-radius: 300px;
+  border-color: #F05F44;
+  border-width: 3px;
   max-width: 65px;
-  opacity: 1;
 }
 
 .buffer {
@@ -29,7 +26,7 @@ hr {
 }
 
 .btn {
-  font-weight: 500;
+  font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
 }
